@@ -1,0 +1,8 @@
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\1 avtor\2 yrok\bin\Debug\2 yrok.exe.config
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\1 avtor\2 yrok\bin\Debug\2 yrok.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\1 avtor\2 yrok\bin\Debug\2 yrok.pdb
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\1 avtor\2 yrok\obj\Debug\2 yrok.csproj.AssemblyReference.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\1 avtor\2 yrok\obj\Debug\2 yrok.csproj.SuggestedBindingRedirects.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\1 avtor\2 yrok\obj\Debug\2 yrok.csproj.CoreCompileInputs.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\1 avtor\2 yrok\obj\Debug\2 yrok.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\1 avtor\2 yrok\obj\Debug\2 yrok.pdb

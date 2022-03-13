@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4389822d-0100-47d3-a46d-06920a6e0963": {
+      "ProjectGuid": "4389822d-0100-47d3-a46d-06920a6e0963",
+      "DisplayName": "5 yrok",
+      "ColorIndex": 0
+    },
+    "8de3942b-1d71-452a-af07-0ad21693238e": {
+      "ProjectGuid": "8de3942b-1d71-452a-af07-0ad21693238e",
+      "DisplayName": "proba",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
